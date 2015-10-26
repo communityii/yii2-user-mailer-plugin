@@ -1,8 +1,8 @@
 {
-    "name": "communityii/yii2-mailer",
+    "name": "communityii/yii2-user-mailer-plugin",
     "description": "A mail management module for Yii 2.0 with ability to manage mail queues, templates, and more.",
-    "keywords": ["yii2", "extension", "module", "mail", "mailer", "queue", "templates", "batch"],
-    "homepage": "https://github.com/kartik-v/yii2-mailer",
+    "keywords": ["yii2", "extension", "plugin", "module", "mail", "mailer", "queue", "templates", "batch"],
+    "homepage": "https://github.com/communityii/yii2-user-mailer-plugin",
     "type": "yii2-extension",
     "license": "BSD 3-Clause",
     "authors": [
@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "comyii\\mailer\\": ""
+            "comyii\\user\\mailer\\": ""
         }
     }
 }
