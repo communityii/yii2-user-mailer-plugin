@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-mailer",
+    "name": "communityii/yii2-mailer",
     "description": "A mail management module for Yii 2.0 with ability to manage mail queues, templates, and more.",
     "keywords": ["yii2", "extension", "module", "mail", "mailer", "queue", "templates", "batch"],
     "homepage": "https://github.com/kartik-v/yii2-mailer",
